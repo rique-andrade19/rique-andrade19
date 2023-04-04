@@ -1,8 +1,8 @@
+## Olá! Eu sou o Henrique😉
 
-
--🔭treinando para ser programador front-end
--🔗estudando JavaScript
-
+- 🔭 Hoje faço uma boa parte de coisas front-end
+- 🌱 Estudando JavaScript
+- 😄 Pronomes: ele/dele
 
 
 
