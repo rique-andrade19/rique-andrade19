@@ -1,7 +1,7 @@
 
 
-🔭treinando para ser programador front-end
-🔗estudando JavaScript
+-🔭treinando para ser programador front-end
+-🔗estudando JavaScript
 
 
 
