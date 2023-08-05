@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Henrique😉
 
 - 🔭 Hoje faço uma boa parte de coisas front-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Python
 - 😄 Pronomes: ele/dele
 
 
